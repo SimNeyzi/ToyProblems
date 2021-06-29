@@ -1,3 +1,5 @@
+// O(n) time and O(n) additional space
+
 const myArray = [3, 4, 6, 10, 11, 15];
 const alicesArray = [1, 5, 8, 12, 14, 19];
 
